@@ -2,6 +2,8 @@
 
 import { Link } from 'react-router-dom'
 import { useAppData } from '../context/AppDataContext'
+import logo from '../../assets/logo-img.png';
+
 
 export function Navbar() {
   const { currentUser, logout } = useAppData()
@@ -10,6 +12,7 @@ export function Navbar() {
     <header className="site-header">
       <div className="nav-inner">
         <Link to="/" className="brand">
+        <img src={logo} alt="Recipe Planner logo" width={32} height={32} style={{ marginRight: '0.5rem' }}/>
           Recipe Planner
         </Link>
         <nav className="nav-links" aria-label="Main">
