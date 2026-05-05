@@ -13,7 +13,7 @@ export function Navbar() {
       <div className="nav-inner">
         <Link to="/" className="brand">
         <img src={logo} alt="Recipe Planner logo" width={32} height={32} style={{ marginRight: '0.5rem' }}/>
-          Recipe Planner
+          Recipe Planning
         </Link>
         <nav className="nav-links" aria-label="Main">
           <Link to="/">Home</Link>
