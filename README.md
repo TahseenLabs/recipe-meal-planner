@@ -6,6 +6,59 @@ This repository was built for a **college Web Technologies coursework group proj
 
 ---
 
+## Live Demo
+
+- **Live Site:** https://wt-project2.onrender.com/
+- **Health Check:** https://wt-project2.onrender.com/health
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="./screenshots/landingPage-img.png" width="850" alt="Landing page" />
+</p>
+
+<p align="center"><em>Landing page with login and registration</em></p>
+
+<p align="center">
+  <img src="./screenshots/homePage-img.png" width="850" alt="Home page" />
+</p>
+
+<p align="center"><em>Personalized home page for returning users</em></p>
+
+<p align="center">
+  <img src="./screenshots/recipePage-img.png" width="850" alt="Recipes page" />
+</p>
+
+<p align="center"><em>Browse recipes, manage favourites, and edit your own recipes</em></p>
+
+<p align="center">
+  <img src="./screenshots/mealRecipe-img.png" width="850" alt="Recipe details" />
+</p>
+
+<p align="center"><em>Detailed recipe view with ingredients and cooking instructions</em></p>
+
+<p align="center">
+  <img src="./screenshots/addrecipePage-img.png" width="850" alt="Add recipe page" />
+</p>
+
+<p align="center"><em>Create and publish your own recipes</em></p>
+
+<p align="center">
+  <img src="./screenshots/mealPlan-img.png" width="850" alt="Meal planner" />
+</p>
+
+<p align="center"><em>Weekly meal planner for organizing meals</em></p>
+
+<p align="center">
+  <img src="./screenshots/profilePage-img.png" width="850" alt="Profile page" />
+</p>
+
+<p align="center"><em>User profile with authored recipes and saved favourites</em></p>
+
+---
+
 ## Tech stack
 
 | Layer | Technology |
