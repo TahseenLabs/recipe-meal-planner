@@ -55,7 +55,7 @@ This repository was built for a **college Web Technologies coursework group proj
   <img src="./screenshots/profilePage-img.png" width="850" alt="Profile page" />
 </p>
 
-<p align="center"><em>User profile with authored recipes and saved favourites</em></p>
+<p align="center"><em>User profile with authored recipes</em></p>
 
 ---
 
