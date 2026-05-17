@@ -19,7 +19,19 @@ This repository was built for a **college Web Technologies coursework group proj
   <img src="./screenshots/landingPage-img.png" width="850" alt="Landing page" />
 </p>
 
-<p align="center"><em>Landing page with login and registration</em></p>
+<p align="center"><em>Landing page</em></p>
+
+<p align="center">
+  <img src="./screenshots/loginPage-img.png" width="850" alt="Login page" />
+</p>
+
+<p align="center"><em>User login with session-based authentication</em></p>
+
+<p align="center">
+  <img src="./screenshots/registerPage-img.png" width="850" alt="Register page" />
+</p>
+
+<p align="center"><em>User registration flow</em></p>
 
 <p align="center">
   <img src="./screenshots/homePage-img.png" width="850" alt="Home page" />
